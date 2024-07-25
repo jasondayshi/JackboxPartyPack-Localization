@@ -213,7 +213,7 @@
   {
    "id": "80867",
    "isValid": "",
-   "weapon": "panther",
+   "weapon": "pantera",
    "x": false
   },
   {
@@ -572,12 +572,468 @@
   },
   {
    "id": "81532",
-   "isValid": "",
-   "weapon": "maçã amaldiçoada",
-   "x": false
+    "isValid": "",
+    "weapon": "maçã amaldiçoada",
+    "x": false
   },
   {
-   "id": "81781",
+    "id": "81574",
+    "isValid": "",
+    "weapon": "fósforo aceso",
+    "x": false
+  },
+  {
+    "id": "81575",
+    "isValid": "",
+    "weapon": "telescópio",
+    "x": false
+  },
+  {
+    "id": "81577",
+    "isValid": "",
+    "weapon": "susto",
+    "x": false
+  },
+  {
+    "id": "81578",
+    "isValid": "",
+    "weapon": "unhas compridas",
+    "x": false
+  },
+  {
+    "id": "81579",
+    "isValid": "",
+    "weapon": "clava",
+    "x": false
+  },
+  {
+    "id": "81582",
+    "isValid": "",
+    "weapon": "abridor de cartas",
+    "x": false
+  },
+  {
+    "id": "81583",
+    "isValid": "",
+    "weapon": "globo",
+    "x": false
+  },
+  {
+    "id": "81584",
+    "isValid": "",
+    "weapon": "leite estragado",
+    "x": false
+  },
+  {
+    "id": "81588",
+    "isValid": "",
+    "weapon": "blaster",
+    "x": false
+  },
+  {
+    "id": "81589",
+    "isValid": "",
+    "weapon": "pé de cabra",
+    "x": false
+  },
+  {
+    "id": "81590",
+    "isValid": "",
+    "weapon": "desidratação",
+    "x": false
+  },
+  {
+    "id": "81591",
+    "isValid": "",
+    "weapon": "cheiro de sovaco",
+    "x": false
+  },
+  {
+    "id": "81592",
+    "isValid": "",
+    "weapon": "cócegas",
+    "x": false
+  },
+  {
+    "id": "81593",
+    "isValid": "",
+    "weapon": "corda",
+    "x": false
+  },
+  {
+    "id": "81594",
+    "isValid": "",
+    "weapon": "guindaste",
+    "x": false
+  },
+  {
+    "id": "81595",
+    "isValid": "",
+    "weapon": "rolo de massa",
+    "x": false
+  },
+  {
+    "id": "81597",
+    "isValid": "",
+    "weapon": "lâmpada",
+    "x": false
+  },
+  {
+    "id": "81598",
+    "isValid": "",
+    "weapon": "ornitorrinco",
+    "x": false
+  },
+  {
+    "id": "81639",
+    "isValid": "",
+    "weapon": "placa de pare",
+    "x": false
+  },
+  {
+    "id": "81640",
+    "isValid": "",
+    "weapon": "sapato de salto",
+    "x": false
+  },
+  {
+    "id": "81641",
+    "isValid": "",
+    "weapon": "alturas",
+    "x": false
+  },
+  {
+    "id": "81643",
+    "isValid": "",
+    "weapon": "minivan",
+    "x": false
+  },
+  {
+    "id": "81644",
+    "isValid": "",
+    "weapon": "presente de aniversário",
+    "x": false
+  },
+  {
+    "id": "81646",
+    "isValid": "",
+    "weapon": "peixe-lua",
+    "x": false
+  },
+  {
+    "id": "81648",
+    "isValid": "",
+    "weapon": "serra de bancada",
+    "x": false
+  },
+  {
+    "id": "81649",
+    "isValid": "",
+    "weapon": "colega de quarto",
+    "x": false
+  },
+  {
+    "id": "81650",
+    "isValid": "",
+    "weapon": "maratona",
+    "x": false
+  },
+  {
+    "id": "81662",
+    "isValid": "",
+    "weapon": "iceberg",
+    "x": false
+  },
+  {
+    "id": "81663",
+    "isValid": "",
+    "weapon": "estátua de mármore",
+    "x": false
+  },
+  {
+    "id": "81665",
+    "isValid": "",
+    "weapon": "música alta",
+    "x": false
+  },
+  {
+    "id": "81666",
+    "isValid": "",
+    "weapon": "palhaço de circo",
+    "x": false
+  },
+  {
+    "id": "81667",
+    "isValid": "",
+    "weapon": "ensopado de carne",
+    "x": false
+  },
+  {
+    "id": "81668",
+    "isValid": "",
+    "weapon": "felicidade",
+    "x": false
+  },
+  {
+    "id": "81669",
+    "isValid": "",
+    "weapon": "ogro",
+    "x": false
+  },
+  {
+    "id": "81672",
+    "isValid": "",
+    "weapon": "granadas",
+    "x": false
+  },
+  {
+    "id": "81673",
+    "isValid": "",
+    "weapon": "e-mail encadeado",
+    "x": false
+  },
+  {
+    "id": "81675",
+    "isValid": "",
+    "weapon": "a magia do teatro",
+    "x": false
+  },
+  {
+    "id": "81677",
+    "isValid": "",
+    "weapon": "armadilha oculta",
+    "x": false
+  },
+  {
+    "id": "81678",
+    "isValid": "",
+    "weapon": "orbe misteriosa",
+    "x": false
+  },
+  {
+    "id": "81679",
+    "isValid": "",
+    "weapon": "chef malvado",
+    "x": false
+  },
+  {
+    "id": "81680",
+    "isValid": "",
+    "weapon": "vulcão",
+    "x": false
+  },
+  {
+    "id": "81684",
+    "isValid": "",
+    "weapon": "avalanche",
+    "x": false
+  },
+  {
+    "id": "81685",
+    "isValid": "",
+    "weapon": "desastre de montanhismo",
+    "x": false
+  },
+  {
+    "id": "81686",
+    "isValid": "",
+    "weapon": "invasão alienígena",
+    "x": false
+  },
+  {
+    "id": "81687",
+    "isValid": "",
+    "weapon": "boneca amaldiçoada",
+    "x": false
+  },
+  {
+    "id": "81688",
+    "isValid": "",
+    "weapon": "adolescentes emo",
+    "x": false
+  },
+  {
+    "id": "81737",
+    "isValid": "",
+    "weapon": "imã gigante",
+    "x": false
+  },
+  {
+    "id": "81739",
+    "isValid": "",
+    "weapon": "martelo barulhento",
+    "x": false
+  },
+  {
+    "id": "81742",
+    "isValid": "",
+    "weapon": "avalanche bem-timed",
+    "x": false
+  },
+  {
+    "id": "81744",
+    "isValid": "",
+    "weapon": "solidão",
+    "x": false
+  },
+  {
+    "id": "81746",
+    "isValid": "",
+    "weapon": "baguete velha",
+    "x": false
+  },
+  {
+    "id": "81748",
+    "isValid": "",
+    "weapon": "pé de pogo",
+    "x": false
+  },
+  {
+    "id": "81750",
+    "isValid": "",
+    "weapon": "colchão de aterro",
+    "x": false
+  },
+  {
+    "id": "81751",
+    "isValid": "",
+    "weapon": "vitral",
+    "x": false
+  },
+  {
+    "id": "81752",
+    "isValid": "",
+    "weapon": "chaleira britânica",
+    "x": false
+  },
+  {
+    "id": "81753",
+    "isValid": "",
+    "weapon": "perfume forte",
+    "x": false
+  },
+  {
+    "id": "81755",
+    "isValid": "",
+    "weapon": "porcelana de avó",
+    "x": false
+  },
+  {
+    "id": "81756",
+    "isValid": "",
+    "weapon": "fofoca",
+    "x": false
+  },
+  {
+    "id": "81757",
+    "isValid": "",
+    "weapon": "urso de pelúcia explosivo",
+    "x": false
+  },
+  {
+    "id": "81758",
+    "isValid": "",
+    "weapon": "conversível vermelho-cereja",
+    "x": false
+  },
+  {
+    "id": "81760",
+    "isValid": "",
+    "weapon": "muitos frisbees",
+    "x": false
+  },
+  {
+    "id": "81762",
+    "isValid": "",
+    "weapon": "braço de ciborgue",
+    "x": false
+  },
+  {
+    "id": "81764",
+    "isValid": "",
+    "weapon": "bagagem de mão",
+    "x": false
+  },
+  {
+    "id": "81765",
+    "isValid": "",
+    "weapon": "galho de árvore retorcido",
+    "x": false
+  },
+  {
+    "id": "81766",
+    "isValid": "",
+    "weapon": "balão de ar quente",
+    "x": false
+  },
+  {
+    "id": "81767",
+    "isValid": "",
+    "weapon": "chuteiras",
+    "x": false
+  },
+  {
+    "id": "81768",
+    "isValid": "",
+    "weapon": "tartaruga de casco rígido",
+    "x": false
+  },
+  {
+    "id": "81769",
+    "isValid": "",
+    "weapon": "banheira com pés de garra",
+    "x": false
+  },
+  {
+    "id": "81770",
+    "isValid": "",
+    "weapon": "pena e tinta",
+    "x": false
+  },
+  {
+    "id": "81771",
+    "isValid": "",
+    "weapon": "cachimbo antigo",
+    "x": false
+  },
+  {
+    "id": "81772",
+    "isValid": "",
+    "weapon": "cortador de grama",
+    "x": false
+  },
+  {
+    "id": "81773",
+    "isValid": "",
+    "weapon": "erva-de-passarinho",
+    "x": false
+  },
+  {
+    "id": "81775",
+    "isValid": "",
+    "weapon": "máquina de garras de arcade",
+    "x": false
+  },
+  {
+    "id": "81776",
+    "isValid": "",
+    "weapon": "lâmina feminina",
+    "x": false
+  },
+  {
+    "id": "81779",
+    "isValid": "",
+    "weapon": "flor de palhaço que espirra",
+    "x": false
+  },
+  {
+    "id": "81780",
+    "isValid": "",
+    "weapon": "perna de peru gigante",
+    "x": false
+  },
+  {
+    "id": "81781",
     "isValid": "",
     "weapon": "toalha de praia",
     "x": false
